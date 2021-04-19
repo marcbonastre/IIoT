@@ -1,3 +1,3 @@
 # IIoT
 
-This repository is used to save all de files used in the Industrial Internet of Things Posgraduate.
+This repository is used to save all the files and programs used in the Industrial Internet of Things Posgraduate.
