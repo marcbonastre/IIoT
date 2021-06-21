@@ -1,3 +1,11 @@
+.npm
+.config.nodes.json
+.config.nodes.json.backup
+.config.runtime.json
+.config.users.json
+.config.users.json.backup
+.flows.json.backup
+.flows_cred.json.backup
 grafana.db
 .env
 .DS_Store
